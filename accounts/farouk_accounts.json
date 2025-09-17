@@ -1,0 +1,20 @@
+{
+    "name": "Farouk",
+    "currency": "Euro",
+    "balance": 15.0,
+    "transaction": [
+        {
+            "type": "deposit",
+            "amount": 20,
+            "currency": "Euro",
+            "timestamp": "2025-06-22T16:59:30.998159"
+        },
+        {
+            "type": "withdrawal",
+            "amount": 5,
+            "currency": "Euro",
+            "timestamp": "2025-06-22T16:59:30.998159"
+        }
+    ],
+    "pin_hash": 2021
+}

@@ -1,0 +1,26 @@
+{
+    "name": "joanl",
+    "currency": "USD",
+    "balance": 25000.0,
+    "transaction": [
+        {
+            "type": "deposit",
+            "amount": 20000,
+            "currency": "USD",
+            "timestamp": "2025-06-22T17:03:10.042453"
+        },
+        {
+            "type": "withdrawal",
+            "amount": 5000,
+            "currency": "USD",
+            "timestamp": "2025-06-22T17:03:10.042453"
+        },
+        {
+            "type": "deposit",
+            "amount": 10000,
+            "currency": "USD",
+            "timestamp": "2025-06-22T17:03:10.042453"
+        }
+    ],
+    "pin_hash": 9851
+}

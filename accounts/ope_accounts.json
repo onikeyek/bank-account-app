@@ -1,0 +1,14 @@
+{
+    "name": "ope",
+    "currency": "Euro",
+    "balance": 200.0,
+    "transaction": [
+        {
+            "type": "deposit",
+            "amount": 200,
+            "currency": "Euro",
+            "timestamp": "2025-06-22T16:55:45.099793"
+        }
+    ],
+    "pin_hash": 5412
+}
