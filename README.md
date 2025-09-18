@@ -17,7 +17,7 @@ A Python CLI Bank Application with account creation, hashed PIN authentication, 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
